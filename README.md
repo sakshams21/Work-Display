@@ -24,7 +24,7 @@ Welcome to my portfolio of game development projects! Below you'll find links to
 
 ---
 
-### 4. **A* Pathfinding (2D) **
+### 4. ** A* Pathfinding (2D) **
 - **Description**: Implementation of the A* pathfinding algorithm in a 2D environment.
 - **Video**: [Watch Here](https://drive.google.com/file/d/1gHWWd10wUos5IrJV8TTxVJ73iycMzXQ_/view?usp=sharing)
 
