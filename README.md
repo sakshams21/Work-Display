@@ -68,7 +68,7 @@ Welcome to my portfolio of game development projects! Below you'll find links to
 
 ### 11. **VR Safety Project**
 - **Description**: A virtual reality project focusing on safety training.
-- **Video**: [Watch Here](https://drive.google.com/file/d/19yxT4vjpEBKljw15fInyePqKr72WXlAb/view?usp=sharing)
+- **Video**: [Watch Here](https://drive.google.com/file/d/1wBJGaI-q3DY3ZW_z94GApwwNFF4gml2h/view?usp=sharing)
 
 ---
 
