@@ -6,7 +6,7 @@ Welcome to my portfolio of game development projects! Below you'll find links to
 
 ## 🚀 Projects
 
-### 1. **Xplorro (Teaching Game)**
+### 1. **Xplorro (3D Mobile Game)**
 - **Description**: An educational game designed to teach various concepts.
 - **Video Walkthrough**: [Watch Here](https://drive.google.com/file/d/1zckyWY7WGVphbmHYm4VhEgCyI-q4vV0y/view?usp=sharing)
 
